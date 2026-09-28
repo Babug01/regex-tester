@@ -1,6 +1,6 @@
 # Regex Tester
 
-**Live demo:** https://babug01.github.io/regex-tester/
+**Live demo:** https://regex-tester-two-umber.vercel.app (Vercel) · [GitHub Pages mirror](https://babug01.github.io/regex-tester/)
 
 Test a regular expression against a string, see every match highlighted inline, and inspect each
 match's numbered and named capture groups in a side panel. Invalid regex syntax is caught and shown
